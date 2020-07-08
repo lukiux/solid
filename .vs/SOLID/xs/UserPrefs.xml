@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{CDC2F17B-4366-4E89-947A-E5D6C7E98702}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SOLID/ISP/IAirplane.cs">
+    <Files>
+      <File FileName="SOLID/Program.cs" Line="50" Column="1" />
+      <File FileName="SOLID/DIP/EmployeeAdmin.cs" />
+      <File FileName="SOLID/SRP/WorkReportEntry.cs" />
+      <File FileName="SOLID/SRP/WorkReport.cs" />
+      <File FileName="SOLID/SRP/FileSaver.cs" />
+      <File FileName="SOLID/OCP/DeveloperReport.cs" />
+      <File FileName="SOLID/OCP/SalaryCalculator.cs" />
+      <File FileName="SOLID/OCP/BaseSalaryCalculator.cs" />
+      <File FileName="SOLID/OCP/SeniorDevSalaryCalculator.cs" />
+      <File FileName="SOLID/OCP/JuniorDevSalaryCalculator.cs" />
+      <File FileName="SOLID/LSP/SumCalculator.cs" />
+      <File FileName="SOLID/LSP/EvenNumbersSumCalculator.cs" />
+      <File FileName="SOLID/LSP/Calculator.cs" />
+      <File FileName="SOLID/ISP/IVehicle.cs" Line="7" Column="20" />
+      <File FileName="SOLID/ISP/MultiFunctionalCar.cs" Line="17" Column="60" />
+      <File FileName="SOLID/ISP/Car.cs" Line="12" Column="48" />
+      <File FileName="SOLID/ISP/AirPlane.cs" Line="17" Column="49" />
+      <File FileName="SOLID/ISP/ICar.cs" Line="6" Column="22" />
+      <File FileName="SOLID/ISP/IAirplane.cs" Line="6" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLID" expanded="True">
+            <Node name="SOLID" expanded="True">
+              <Node name="DIP" expanded="True" />
+              <Node name="ISP" expanded="True">
+                <Node name="IAirplane.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SOLID PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

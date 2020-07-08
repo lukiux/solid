@@ -1,0 +1,12 @@
+/Users/lukasguzauskas/Projects/SOLID/SOLID/bin/Debug/netcoreapp3.1/SOLID.deps.json
+/Users/lukasguzauskas/Projects/SOLID/SOLID/bin/Debug/netcoreapp3.1/SOLID.runtimeconfig.json
+/Users/lukasguzauskas/Projects/SOLID/SOLID/bin/Debug/netcoreapp3.1/SOLID.runtimeconfig.dev.json
+/Users/lukasguzauskas/Projects/SOLID/SOLID/bin/Debug/netcoreapp3.1/SOLID.dll
+/Users/lukasguzauskas/Projects/SOLID/SOLID/bin/Debug/netcoreapp3.1/SOLID.pdb
+/Users/lukasguzauskas/Projects/SOLID/SOLID/obj/Debug/netcoreapp3.1/SOLID.csprojAssemblyReference.cache
+/Users/lukasguzauskas/Projects/SOLID/SOLID/obj/Debug/netcoreapp3.1/SOLID.AssemblyInfoInputs.cache
+/Users/lukasguzauskas/Projects/SOLID/SOLID/obj/Debug/netcoreapp3.1/SOLID.AssemblyInfo.cs
+/Users/lukasguzauskas/Projects/SOLID/SOLID/obj/Debug/netcoreapp3.1/SOLID.csproj.CoreCompileInputs.cache
+/Users/lukasguzauskas/Projects/SOLID/SOLID/obj/Debug/netcoreapp3.1/SOLID.dll
+/Users/lukasguzauskas/Projects/SOLID/SOLID/obj/Debug/netcoreapp3.1/SOLID.pdb
+/Users/lukasguzauskas/Projects/SOLID/SOLID/obj/Debug/netcoreapp3.1/SOLID.genruntimeconfig.cache
